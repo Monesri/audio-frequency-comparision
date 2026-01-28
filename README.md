@@ -20,4 +20,7 @@ and compared to calculate a similarity score.
 ## Output
 - A frequency-domain graph showing both audio signals
 - A numerical similarity score indicating how similar the two audio files are.
+## Frequency Comparison Graph
+![Frequency Graph](audio-frequency-comparision.png)
   
+
